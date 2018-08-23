@@ -24,3 +24,12 @@ query readHuman {
   }
 }
 
+Variables:
+
+{
+    "human": {
+      "name": "Boba Fett",
+      "homePlanet": "Kamino"
+    }
+}
+
